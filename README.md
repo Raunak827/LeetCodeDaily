@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Raunak827/LeetCodeDaily/tree/master/0002-add-two-numbers) |
 | [3908-valid-digit-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/3908-valid-digit-number) |
 ## Array
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raunak827/LeetCodeDaily/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Raunak827/LeetCodeDaily/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Raunak827/LeetCodeDaily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
