@@ -4,14 +4,16 @@ class Solution {
         int left=0,right=nums.length-1;
         for(int i=right;i>=0;i--)
         {
-            if(Math.abs(nums[left])>=Math.abs(nums[right]))
+            int lftsq=nums[left] * nums[left];
+            int rsq=nums[right] * nums[right];
+            if(lftsq>=rsq)
             {
-                ans[i] = nums[left] * nums[left];
+                ans[i] = lftsq;
                 left++;
             }
             else
             {
-                ans[i] = nums[right] * nums[right];
+                ans[i] = rsq;
                 right--;
             }
             
