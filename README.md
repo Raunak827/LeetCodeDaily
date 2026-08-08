@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raunak827/LeetCodeDaily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0977-squares-of-a-sorted-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Raunak827/LeetCodeDaily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Raunak827/LeetCodeDaily/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Raunak827/LeetCodeDaily/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0977-squares-of-a-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Raunak827/LeetCodeDaily/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
