@@ -1,47 +1,40 @@
 class Solution {
-    List<List<String>> res= new ArrayList<>();
+    
     public List<List<String>> solveNQueens(int n) {
+        List<List<String>> res= new ArrayList<>();
         char[][] board= new char[n][n];
         for(int i=0;i<n;i++) Arrays.fill(board[i],'.');
-        generate(board,0);
+        boolean[] columns = new boolean[n];
+        boolean[] diagonal1= new boolean[2*n];
+        boolean[] diagonal2= new boolean[2*n];
+        generate(0,n,board,columns,diagonal1,diagonal2,res);
         return res;
     }
-    public void generate(char[][] board, int row)
+    void generate(int row, int n,char[][] board,boolean[] columns, boolean[] diagonal1, boolean []diagonal2, List<List<String>> res)
     {
-        if(row==board.length)
+        if(row==n)
         {
             List<String> ls= new ArrayList<>();
-            for(int i=0;i<board.length;i++)
+            for(int i=0;i<n;i++)
             {
                 ls.add(new String(board[i]));
             }
             res.add(ls);
             return;
         }
-        for(int col=0;col<board[row].length;col++)
+        for(int col=0;col<n;col++)
         {
-            if(isSafe(board,row,col)){
+            if(columns[col] || diagonal1[row+col] || diagonal2[n-row+col]) continue;
+            
             board[row][col]='Q';
-            generate(board,row+1);
+            columns[col]=true;
+            diagonal1[row+col]=true;
+            diagonal2[n-row+col]=true;
+            generate(row+1,n,board,columns,diagonal1,diagonal2,res);
             board[row][col]='.';
+            columns[col] = false;
+            diagonal1[row + col] = false;
+            diagonal2[n - row + col] = false;
             }
         }
     }
-    public boolean isSafe(char[][] board, int row, int col)
-    {
-        for(int i=0; i<row; i++)
-        {
-            if(board[i][col]=='Q') return false;
-        }
-        int maxLeft=Math.min(row,col);
-        for(int i=1;i<=maxLeft;i++){
-            if(board[row-i][col-i]=='Q') return false;
-        }
-        int maxRight=Math.min(row,board.length-1-col);
-        for(int i=1;i<=maxRight;i++){
-            if(board[row-i][col+i]=='Q') return false;
-        }
-        return true;
-
-    }
-}
