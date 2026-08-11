@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raunak827/LeetCodeDaily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/Raunak827/LeetCodeDaily/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/Raunak827/LeetCodeDaily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raunak827/LeetCodeDaily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Raunak827/LeetCodeDaily/tree/master/0456-132-pattern) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Raunak827/LeetCodeDaily/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Raunak827/LeetCodeDaily/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
