@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/Raunak827/LeetCodeDaily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raunak827/LeetCodeDaily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Raunak827/LeetCodeDaily/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Raunak827/LeetCodeDaily/tree/master/0739-daily-temperatures) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Raunak827/LeetCodeDaily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raunak827/LeetCodeDaily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Raunak827/LeetCodeDaily/tree/master/0456-132-pattern) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raunak827/LeetCodeDaily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -93,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Raunak827/LeetCodeDaily/tree/master/0051-n-queens) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
