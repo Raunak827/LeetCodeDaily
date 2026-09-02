@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Raunak827/LeetCodeDaily/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Raunak827/LeetCodeDaily/tree/master/0739-daily-temperatures) |
+| [1666-make-the-string-great](https://github.com/Raunak827/LeetCodeDaily/tree/master/1666-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [1666-make-the-string-great](https://github.com/Raunak827/LeetCodeDaily/tree/master/1666-make-the-string-great) |
 <!---LeetCode Topics End-->
