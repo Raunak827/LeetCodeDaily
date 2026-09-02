@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raunak827/LeetCodeDaily/tree/master/0002-add-two-numbers) |
 | [3908-valid-digit-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/3908-valid-digit-number) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/4256-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0977-squares-of-a-sorted-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raunak827/LeetCodeDaily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Raunak827/LeetCodeDaily/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/4256-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
