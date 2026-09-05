@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raunak827/LeetCodeDaily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Raunak827/LeetCodeDaily/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/4256-construct-uniform-parity-array-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Raunak827/LeetCodeDaily/tree/master/4285-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1666-make-the-string-great](https://github.com/Raunak827/LeetCodeDaily/tree/master/1666-make-the-string-great) |
+## Prefix Sum
+|  |
+| ------- |
+| [4285-smallest-stable-index-ii](https://github.com/Raunak827/LeetCodeDaily/tree/master/4285-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
