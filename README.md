@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Raunak827/LeetCodeDaily/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0977-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Raunak827/LeetCodeDaily/tree/master/1034-subarrays-with-k-different-integers) |
+| [1138-grumpy-bookstore-owner](https://github.com/Raunak827/LeetCodeDaily/tree/master/1138-grumpy-bookstore-owner) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raunak827/LeetCodeDaily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Raunak827/LeetCodeDaily/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/4256-construct-uniform-parity-array-i) |
@@ -127,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Raunak827/LeetCodeDaily/tree/master/1034-subarrays-with-k-different-integers) |
+| [1138-grumpy-bookstore-owner](https://github.com/Raunak827/LeetCodeDaily/tree/master/1138-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
