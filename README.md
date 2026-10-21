@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raunak827/LeetCodeDaily/tree/master/0002-add-two-numbers) |
+| [2383-add-two-integers](https://github.com/Raunak827/LeetCodeDaily/tree/master/2383-add-two-integers) |
 | [3908-valid-digit-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/3908-valid-digit-number) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/4256-construct-uniform-parity-array-i) |
 ## Array
