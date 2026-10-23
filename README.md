@@ -53,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raunak827/LeetCodeDaily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Raunak827/LeetCodeDaily/tree/master/0023-merge-k-sorted-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raunak827/LeetCodeDaily/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Raunak827/LeetCodeDaily/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Raunak827/LeetCodeDaily/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
@@ -139,4 +141,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Raunak827/LeetCodeDaily/tree/master/1034-subarrays-with-k-different-integers) |
 | [1138-grumpy-bookstore-owner](https://github.com/Raunak827/LeetCodeDaily/tree/master/1138-grumpy-bookstore-owner) |
 | [2478-longest-nice-subarray](https://github.com/Raunak827/LeetCodeDaily/tree/master/2478-longest-nice-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raunak827/LeetCodeDaily/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raunak827/LeetCodeDaily/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raunak827/LeetCodeDaily/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
