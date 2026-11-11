@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Raunak827/LeetCodeDaily/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Raunak827/LeetCodeDaily/tree/master/1833-find-the-highest-altitude) |
+| [1899-count-items-matching-a-rule](https://github.com/Raunak827/LeetCodeDaily/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Raunak827/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2478-longest-nice-subarray](https://github.com/Raunak827/LeetCodeDaily/tree/master/2478-longest-nice-subarray) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raunak827/LeetCodeDaily/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1666-make-the-string-great](https://github.com/Raunak827/LeetCodeDaily/tree/master/1666-make-the-string-great) |
+| [1899-count-items-matching-a-rule](https://github.com/Raunak827/LeetCodeDaily/tree/master/1899-count-items-matching-a-rule) |
 ## Prefix Sum
 |  |
 | ------- |
