@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/Raunak827/LeetCodeDaily/tree/master/1138-grumpy-bookstore-owner) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Raunak827/LeetCodeDaily/tree/master/1677-matrix-diagonal-sum) |
+| [1833-find-the-highest-altitude](https://github.com/Raunak827/LeetCodeDaily/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Raunak827/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2478-longest-nice-subarray](https://github.com/Raunak827/LeetCodeDaily/tree/master/2478-longest-nice-subarray) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raunak827/LeetCodeDaily/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1833-find-the-highest-altitude](https://github.com/Raunak827/LeetCodeDaily/tree/master/1833-find-the-highest-altitude) |
 | [4285-smallest-stable-index-ii](https://github.com/Raunak827/LeetCodeDaily/tree/master/4285-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
