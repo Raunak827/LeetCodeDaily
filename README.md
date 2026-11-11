@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Raunak827/LeetCodeDaily/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Raunak827/LeetCodeDaily/tree/master/0739-daily-temperatures) |
+| [0861-flipping-an-image](https://github.com/Raunak827/LeetCodeDaily/tree/master/0861-flipping-an-image) |
 | [0907-koko-eating-bananas](https://github.com/Raunak827/LeetCodeDaily/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0977-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Raunak827/LeetCodeDaily/tree/master/1034-subarrays-with-k-different-integers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Raunak827/LeetCodeDaily/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raunak827/LeetCodeDaily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/Raunak827/LeetCodeDaily/tree/master/0861-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -92,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/Raunak827/LeetCodeDaily/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Raunak827/LeetCodeDaily/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/0054-spiral-matrix) |
+| [0861-flipping-an-image](https://github.com/Raunak827/LeetCodeDaily/tree/master/0861-flipping-an-image) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Raunak827/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 ## Sorting
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/Raunak827/LeetCodeDaily/tree/master/0861-flipping-an-image) |
 | [2478-longest-nice-subarray](https://github.com/Raunak827/LeetCodeDaily/tree/master/2478-longest-nice-subarray) |
 ## Pigeonhole Principle
 |  |
