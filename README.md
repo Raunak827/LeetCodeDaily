@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0977-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Raunak827/LeetCodeDaily/tree/master/1034-subarrays-with-k-different-integers) |
 | [1138-grumpy-bookstore-owner](https://github.com/Raunak827/LeetCodeDaily/tree/master/1138-grumpy-bookstore-owner) |
+| [1677-matrix-diagonal-sum](https://github.com/Raunak827/LeetCodeDaily/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/Raunak827/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2478-longest-nice-subarray](https://github.com/Raunak827/LeetCodeDaily/tree/master/2478-longest-nice-subarray) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Raunak827/LeetCodeDaily/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/0054-spiral-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Raunak827/LeetCodeDaily/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
