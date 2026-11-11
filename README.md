@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raunak827/LeetCodeDaily/tree/master/0002-add-two-numbers) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2383-add-two-integers](https://github.com/Raunak827/LeetCodeDaily/tree/master/2383-add-two-integers) |
 | [3908-valid-digit-number](https://github.com/Raunak827/LeetCodeDaily/tree/master/3908-valid-digit-number) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Raunak827/LeetCodeDaily/tree/master/4256-construct-uniform-parity-array-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Raunak827/LeetCodeDaily/tree/master/0977-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Raunak827/LeetCodeDaily/tree/master/1034-subarrays-with-k-different-integers) |
 | [1138-grumpy-bookstore-owner](https://github.com/Raunak827/LeetCodeDaily/tree/master/1138-grumpy-bookstore-owner) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Raunak827/LeetCodeDaily/tree/master/1677-matrix-diagonal-sum) |
 | [2048-build-array-from-permutation](https://github.com/Raunak827/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2478-longest-nice-subarray](https://github.com/Raunak827/LeetCodeDaily/tree/master/2478-longest-nice-subarray) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/0054-spiral-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Raunak827/LeetCodeDaily/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Raunak827/LeetCodeDaily/tree/master/2048-build-array-from-permutation) |
 ## Sorting
 |  |
